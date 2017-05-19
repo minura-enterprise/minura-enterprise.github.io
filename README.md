@@ -1,2 +1,2 @@
-# minura-enterprise.github.io
+# Minura Enterprise
 Minura Enterprise WebSite
